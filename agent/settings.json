@@ -1,0 +1,14 @@
+{
+  "lastChangelogVersion": "1.3.0",
+  "defaultProvider": "openrouter:work",
+  "defaultModel": "anthropic/claude-opus-5.5",
+  "packages": [],
+  "enabledModels": [
+    "openrouter:work/anthropic/claude-opus-5.5",
+    "openrouter:work/anthropic/claude-haiku-5.5",
+    "openrouter:work/anthropic/claude-sonnet-5.5",
+    "anthropic:personal/claude-opus-5-5",
+    "anthropic:personal/claude-sonnet-5-5",
+    "anthropic:personal/claude-haiku-5-5"
+  ]
+}

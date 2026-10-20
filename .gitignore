@@ -1,0 +1,21 @@
+# Credentials
+agent/auth.json
+.env
+.env.*
+*.pem
+*.key
+
+# Session transcripts can contain pasted secrets and private code
+agent/sessions/
+
+# Installed binaries and dependencies
+agent/install/
+agent/bin/
+agent/npm/node_modules/
+node_modules/
+
+# Machine-local state and caches
+agent/trust.json
+agent/models-store.json
+
+.DS_Store

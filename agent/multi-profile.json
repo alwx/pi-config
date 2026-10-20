@@ -1,0 +1,14 @@
+[
+  {
+    "name": "work",
+    "providers": [
+      "openrouter"
+    ]
+  },
+  {
+    "name": "personal",
+    "providers": [
+      "anthropic"
+    ]
+  }
+]
