@@ -10,6 +10,7 @@
     "openrouter:personal/openrouter/free",
     "openrouter:personal/anthropic/claude-opus-5.5",
     "openrouter:personal/xiaomi/mimo-v2.6-pro",
-    "openrouter:personal/minimax/minimax-m3"
+    "openrouter:personal/minimax/minimax-m3",
+    "openrouter:personal/z-ai/glm-5.3"
   ]
 }
