@@ -1,13 +1,15 @@
 {
   "lastChangelogVersion": "1.3.0",
-  "defaultProvider": "anthropic:personal",
-  "defaultModel": "claude-opus-5-5",
+  "defaultProvider": "openrouter:work",
+  "defaultModel": "openrouter/pareto-code",
   "packages": [],
   "enabledModels": [
-    "anthropic:personal/claude-opus-5-5",
-    "anthropic:personal/claude-sonnet-5-5",
-    "anthropic:personal/claude-haiku-5-5",
     "openrouter:work/openrouter/pareto-code",
-    "openrouter:work/anthropic/claude-opus-5.5"
+    "openrouter:work/anthropic/claude-opus-5.5",
+    "openrouter:personal/openrouter/pareto-code",
+    "openrouter:personal/openrouter/free",
+    "openrouter:personal/anthropic/claude-opus-5.5",
+    "openrouter:personal/xiaomi/mimo-v2.6-pro",
+    "openrouter:personal/minimax/minimax-m3"
   ]
 }

@@ -8,7 +8,6 @@
   {
     "name": "personal",
     "providers": [
-      "anthropic",
       "openrouter"
     ]
   }
