@@ -7,6 +7,7 @@
     "anthropic:personal/claude-opus-5-5",
     "anthropic:personal/claude-sonnet-5-5",
     "anthropic:personal/claude-haiku-5-5",
-    "openrouter:personal/xiaomi/mimo-v2.6-pro"
+    "openrouter:work/openrouter/pareto-code",
+    "openrouter:work/anthropic/claude-opus-5.5"
   ]
 }
