@@ -3,7 +3,8 @@
   "defaultProvider": "claude-code",
   "defaultModel": "claude-opus-5-5",
   "packages": [
-    "https://github.com/earendil-works/pi-claude-code"
+    "https://github.com/earendil-works/pi-claude-code",
+    "npm:remote-pi"
   ],
   "enabledModels": [
     "claude-code/claude-opus-5-5",
